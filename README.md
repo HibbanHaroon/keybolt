@@ -5,4 +5,4 @@ Get ready for a typing test like no other! Keybolt brings your keyboard to life 
 ## Figma Design
 Here's the Figma Design I made, In the empty area beneath the textfield should a 3D Keyboard which I am currently designing in spline.
 
-![Figma Design](assets/keybolt-figma-design.png)
+![Figma Design](https://github.com/HibbanHaroon/keybolt/blob/adding-figma-design/assets/keybolt-figma-design.png)
