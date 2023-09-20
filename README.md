@@ -1,4 +1,4 @@
-#Keybolt ⌨️⚡
+# Keybolt ⌨️⚡
 
 Get ready for a typing test like no other! Keybolt brings your keyboard to life in 3D. Watch your typing speed soar as you see each key click. Challenge your friends and track your progress. It's typing, but cooler. 🔥💥
 
